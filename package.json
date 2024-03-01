@@ -1,0 +1,19 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "api&render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yen",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "uuid": "^9.0.1"
+  },
+  "engines": {
+    "node": "20.9.0"
+  }
+}
